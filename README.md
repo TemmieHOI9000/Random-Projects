@@ -1,4 +1,4 @@
-# Random-Projects
+# Random-Projects"\n"
 To move the changes to the main repository follow the steps below:
 echo "# Random-Projects" >> README.md
 git init
