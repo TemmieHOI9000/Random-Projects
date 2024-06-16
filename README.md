@@ -10,4 +10,4 @@ git remote add origin https://github.com/TemmieHOI9000/Random-Projects.git \
 git push -u origin main\
 
 ## Project
-Sudoku Solver []
+Sudoku Solver
