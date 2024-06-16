@@ -1,5 +1,5 @@
-# Random-Projects"\n"
-To move the changes to the main repository follow the steps below:
+# Random-Projects
+To move the changes to the main repository follow the steps below:"\n"
 echo "# Random-Projects" >> README.md
 git init
 git add README.md
